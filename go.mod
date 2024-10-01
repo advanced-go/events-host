@@ -3,8 +3,8 @@ module github.com/advanced-go/events-host
 go 1.21.4
 
 require (
-	github.com/advanced-go/events v0.0.0-20241001143740-0a3c60afde28
-	github.com/advanced-go/stdlib v0.0.0-20241001184733-c8f78a007fe1
+	github.com/advanced-go/events v0.0.0-20241001230508-fdc3397c2875
+	github.com/advanced-go/stdlib v0.0.0-20241001200519-6c59a56f2c22
 )
 
 require (
