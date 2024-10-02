@@ -3,12 +3,12 @@ module github.com/advanced-go/events-host
 go 1.21.4
 
 require (
-	github.com/advanced-go/events v0.0.0-20241001230508-fdc3397c2875
+	github.com/advanced-go/events v0.0.0-20241002003908-14d65c10eb35
 	github.com/advanced-go/stdlib v0.0.0-20241001200519-6c59a56f2c22
 )
 
 require (
-	github.com/advanced-go/postgresql v0.0.0-20240925155931-d01ff516a49b // indirect
+	github.com/advanced-go/postgresql v0.0.0-20241002002235-80c0e29ab59f // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
 	github.com/jackc/pgservicefile v0.0.0-20221227161230-091c0ba34f0a // indirect
