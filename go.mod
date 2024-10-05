@@ -4,7 +4,7 @@ go 1.21.4
 
 require (
 	github.com/advanced-go/events v0.0.0-20241002003908-14d65c10eb35
-	github.com/advanced-go/stdlib v0.0.0-20241001200519-6c59a56f2c22
+	github.com/advanced-go/stdlib v0.0.0-20241005122326-6bb757ed28d8
 )
 
 require (
